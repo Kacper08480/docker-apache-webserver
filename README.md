@@ -8,5 +8,5 @@
 ## How to Run
 
 ## Download one of the following two packages:
-* 1
-* 2
+- `docker-apache-webserver:latest` — Apache web server configured to run on **port 80**
+- `docker-apache-webserver:port8080` — Apache web server configured to run on **port 8080**
